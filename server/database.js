@@ -1,10 +1,10 @@
 const { Pool } = require("pg");
 
 const pool = new Pool({
-  user: "logsreader_single",
+  user: "phonesystem",
   host: "103.122.160.54", //103.122.160.54
   database: "database_single",
-  password: "ix9ijb6w06725sd",
+  password: "pGat1bW561sDLS",
   port: 5432,
 });
 
